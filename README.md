@@ -101,7 +101,7 @@ plt.legend()
 plt.show()
 ```
 
-## Output
+<h3>output<h3>
 
 ### True Stock Price, Predicted Stock Price vs time
 ![image](https://github.com/user-attachments/assets/b86fbe91-8b35-43a0-8538-cf91ce55d5c9)
