@@ -110,7 +110,8 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/062c2915-0a92-49b9-bf19-751fba1ddfa0)
 
 ### Mean Square Error
-![image](https://github.com/user-attachments/assets/b503d7bd-3531-4f37-911d-7c60beba6819)
+![image](https://github.com/user-attachments/assets/f6da83d0-19b3-4760-b38d-13692c595835)
+
 
 
 
