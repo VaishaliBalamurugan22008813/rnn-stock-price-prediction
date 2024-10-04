@@ -68,7 +68,7 @@ model.add(layers.Dense(1))
 
 model.compile(optimizer='adam', loss='mse')
 
-print("NAME: Vinitha D  \nREGISTER NUMBER: 212222230175 \n        ")
+print("NAME: Vaishali Balamurugan  \nREGISTER NUMBER: 212222230164 \n        ")
 model.summary())
 
 model.fit(X_train1,y_train,epochs=30, batch_size=15)
@@ -92,7 +92,7 @@ X_test.shape
 predicted_stock_price_scaled = model.predict(X_test)
 predicted_stock_price = sc.inverse_transform(predicted_stock_price_scaled)
 
-print("NAME:Vinitha D \nREGISTER NUMBER: 212222230175\n ")
+print("NAME:Vaishali Balamurugan \nREGISTER NUMBER: 21222223014\n ")
 plt.plot(np.arange(0,1384),inputs, color='yellow', label = 'Test(Real) Google stock price')
 plt.plot(np.arange(60,1384),predicted_stock_price, color='green', label = 'Predicted Google stock price')
 plt.title('Google Stock Price Prediction')
